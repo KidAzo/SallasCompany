@@ -103,3 +103,7 @@ Assets/Magic Light Probes/
 Assets/Bakery/
 Assets/Editor/x64/Bakery/
 
+# Local git hooks
+.githooks/
+
+
