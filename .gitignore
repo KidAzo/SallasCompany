@@ -97,3 +97,9 @@ InitTestScene*.unity*
 
 # Auto-generated scenes by play mode tests
 /[Aa]ssets/[Ii]nit[Tt]est[Ss]cene*.unity*
+
+# ===== DO NOT PUSH (3rd party heavy assets) =====
+Assets/Magic Light Probes/
+Assets/Bakery/
+Assets/Editor/x64/Bakery/
+
